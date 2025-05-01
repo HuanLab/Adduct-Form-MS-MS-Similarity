@@ -1,6 +1,6 @@
 # Adduct-Based MS/MS Analysis and Visualization Pipeline
 
-This repository contains a complete workflow for analyzing and visualizing adduct-specific MS/MS spectral similarity using custom R scripts. It supports pre-processing, adduct pair filtering, similarity scoring, and figure generation for a publication-ready study.
+This repository contains a complete workflow for analyzing and visualizing adduct-specific MS/MS spectral similarity using R scripts.
 
 ---
 
