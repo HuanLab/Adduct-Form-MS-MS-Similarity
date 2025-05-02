@@ -29,8 +29,8 @@ Once Steps 1–3 are complete, you can generate specific figures using the scrip
 - `Plot_for_fig5C.R`: Spectral similarity under CE mismatch
 - `Plot_for_fig6A.R`: Performance of direct spectral searching
 - `Plot_for_fig6B.R`: Molecular networking connectivity
-- `Plot_for_fig6C_1.R`: Model training without optimization
-- `Plot_for_fig6C_2.R`: Optimized model training pipeline
-- `Plot_for_fig6C_3.R`: ML-based model comparisons across settings
+- `Plot_for_fig6C_Step1.R`: Model training without optimization
+- `Plot_for_fig6C_Step2.R`: Optimized model training pipeline
+- `Plot_for_fig6C_Step3.R`: ML-based model comparisons across settings
 
 ---
