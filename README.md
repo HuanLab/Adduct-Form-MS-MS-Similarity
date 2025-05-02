@@ -4,7 +4,7 @@ This repository contains a complete workflow for analyzing and visualizing adduc
 
 ---
 
-## 🔁 Workflow Overview
+##  Workflow Overview
 
 1. **Step1_Adduct_Sorting.R**  
    Organizes MS/MS data by adduct types from input spectral libraries.
