@@ -21,16 +21,16 @@ Once Steps 1–3 are complete, you can generate specific figures using the scrip
 
 ## 📊 Figure Generation Scripts
 
-- `Plot_for_fig1.R`: Overview or summary plot
-- `Plot_for_fig2.R`: Density distribution of spectral similarities
-- `Plot_for_fig3.R`: Match type categorization
-- `Plot_for_fig5A.R`: Cosine similarity at matched CE values
-- `Plot_for_fig5B.R`: Similarity distributions for various adducts
-- `Plot_for_fig5C.R`: Spectral similarity under CE mismatch
-- `Plot_for_fig6A.R`: Performance of direct spectral searching
-- `Plot_for_fig6B.R`: Molecular networking connectivity
-- `Plot_for_fig6C_Step1.R`: Model training without optimization
-- `Plot_for_fig6C_Step2.R`: Optimized model training pipeline
-- `Plot_for_fig6C_Step3.R`: ML-based model comparisons across settings
+- `Plot_for_fig1.R`: Example MS/MS spectral comparison shows two key factors: adducts and CE
+- `Plot_for_fig2.R`: Spectral similarity analysis: Density plot of modified cosine similarity of MS/MS comparison
+- `Plot_for_fig3.R`: Matched fragment ratios and fragment matched types analysis
+- `Plot_for_fig5A.R`: The trend between modified cosine similarity and CE
+- `Plot_for_fig5B.R`: The trend between modified cosine similarity and ΔCE
+- `Plot_for_fig5C.R`: The trend between mean geometric m/z center shift values and CE levels
+- `Plot_for_fig6A.R`: Direct spectral searching annotation results impaired by mismatched adduct forms
+- `Plot_for_fig6B.R`: Molecular networking based annotation results impaired by mismatched adduct forms
+- `Plot_for_fig6C_Step1.R`: Effects of adduct forms and CE thresholds on detecting PO4-related structural indicators in MS/MS
+- `Plot_for_fig6C_Step2.R`: TPR and FPR of ML-based annotation model performance comparisons with/without excluding alkali adduct and applying CE thresholds
+- `Plot_for_fig6C_Step3.R`: ML annotation AUC curve comparisons with/without excluding alkali adduct and applying CE thresholds
 
 ---
